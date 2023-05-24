@@ -17,7 +17,7 @@
 #include <Shlobj.h>
 #include <io.h>
 #include <direct.h>
-#include "dirent.h"
+#include "win/dirent.h"
 #include <process.h>
 #endif
 
